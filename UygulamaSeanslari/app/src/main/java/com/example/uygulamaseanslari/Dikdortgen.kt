@@ -5,7 +5,7 @@ class Dikdortgen (var uzunluk: Double, var genislik: Double) {
         return  genislik * uzunluk
     }
     fun cevre(): Double {
-        return 2 *(uzunluk + genislik)
+        return (uzunluk + genislik)
     }
 
 
