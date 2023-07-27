@@ -6,6 +6,6 @@ fun main() {
     val alanDikdortgen = dikdortgen.alan()
 
 
-    println("alan: $alanDikdortgen")
-    println("cevre: $cevreDikdortgen")
+    println("Dikdörtgenin alanı: $alanDikdortgen")
+    println("Dikdörtgenin çevresi: $cevreDikdortgen")
 }

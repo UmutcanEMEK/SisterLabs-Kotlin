@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.uygulamaseanslari'
+    namespace 'com.example.uygulamaseanslar'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.uygulamaseanslari"
+        applicationId "com.example.uygulamaseanslar"
         minSdk 24
         targetSdk 33
         versionCode 1
